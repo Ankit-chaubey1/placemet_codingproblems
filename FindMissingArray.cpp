@@ -21,3 +21,8 @@ class Solution {
     }
 
 }
+
+//[1,2,4,5]
+//return 3
+//[1]
+//return 2
